@@ -12,3 +12,4 @@ MINHA LISTA DE TAREFAS
 9. Praticar aberturas do xadrez.
 10. Resolver quebra-cabeças do xadrez.
 11. Verificar o cronograma dos testes. 
+12. Testar o git.
