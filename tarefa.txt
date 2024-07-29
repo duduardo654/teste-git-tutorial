@@ -11,4 +11,5 @@ MINHA LISTA DE TAREFAS
 8. Completar a tarefa de estágio.
 9. Praticar aberturas do xadrez.
 10. Resolver quebra-cabeças do xadrez.
-11. Verificar o cronograma dos testes. 
+11. Verificar o cronograma dos testes.
+12. Verificar se é o main agora. 
