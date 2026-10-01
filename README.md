@@ -1,14 +1,15 @@
-comandos GITHUB
+##Comandos GITHUB
 
-
-- **git clone <url>: copia um repositório remoto para sua máquina;
+**
+- git clone <url>: copia um repositório remoto para sua máquina;
 - git init: inicia um repositório Git em uma pasta local;
 - git status: mostra arquivos alterados, adicionados e o estado atual do repositório;
 - git add <arquivo>: adiciona um arquivo para preparação do commit;
 - git add .: adiciona todas as alterações para o commit;
 - git commit -m "mensagem_qualquer": salva as alterações localmente com uma descrição;
 - git pull: baixa e aplica as atualizações do repositório remoto;
-- git push: envia commits locais para o repositório remoto;**
+- git push: envia commits locais para o repositório remoto;
+**
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - git fetch: baixa atualizações do remoto sem aplicar automaticamente;
 - git merge: junta alterações de outra branch na branch atual;
